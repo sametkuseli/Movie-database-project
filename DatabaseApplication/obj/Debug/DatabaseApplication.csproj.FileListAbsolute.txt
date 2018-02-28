@@ -1,0 +1,12 @@
+c:\users\samet\documents\visual studio 2013\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\DatabaseApplication.exe.config
+c:\users\samet\documents\visual studio 2013\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\DatabaseApplication.exe
+c:\users\samet\documents\visual studio 2013\Projects\DatabaseApplication\DatabaseApplication\bin\Debug\DatabaseApplication.pdb
+c:\users\samet\documents\visual studio 2013\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.csprojResolveAssemblyReference.cache
+c:\users\samet\documents\visual studio 2013\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.ConnectionScreen.resources
+c:\users\samet\documents\visual studio 2013\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.Properties.Resources.resources
+c:\users\samet\documents\visual studio 2013\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.csproj.GenerateResource.Cache
+c:\users\samet\documents\visual studio 2013\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.exe
+c:\users\samet\documents\visual studio 2013\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.pdb
+C:\Users\Samet\Documents\Visual Studio 2013\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.TableStatistics.resources
+C:\Users\Samet\Documents\Visual Studio 2013\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.TableColumn.resources
+C:\Users\Samet\Documents\Visual Studio 2013\Projects\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.Tables.resources
